@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A67C00&center=true&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 <!--
 **ErikHarutyunyan/ErikHarutyunyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
